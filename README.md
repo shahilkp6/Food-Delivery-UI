@@ -1,1 +1,1 @@
-A UI for food delivery company.
+A UI for food delivery company Profile.
